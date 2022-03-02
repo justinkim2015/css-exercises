@@ -1,0 +1,27 @@
+.header {
+    width:500px;
+    background-color:darkseagreen;
+    display: flex;
+ }
+ 
+ .header ul {
+    justify-content:space-between;
+    list-style:none;
+    display: flex;
+ }
+ 
+ .header li {
+    flex:0 0 auto;
+    background-color:darkorange;
+ }
+ 
+ ul {
+    padding:0;
+ }
+
+ .logo {
+    font-size: 48px;
+    font-weight: 900;
+    color: tomato;
+    background: white;
+    padding: 4px 32px;
